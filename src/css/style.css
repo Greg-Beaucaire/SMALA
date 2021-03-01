@@ -144,7 +144,7 @@ nav > #btn_menu > input:checked ~ ul {
   /* CONNEXION CONNEXION CONNEXION CONNEXION CONNEXION*/
 
   #main_connexion {
-    margin-top: 0;
+    margin-top: 3rem;
   }
 
   #main_connexion > h1 {
@@ -804,7 +804,7 @@ nav > #btn_menu > input:checked ~ ul {
   /* CONNEXION CONNEXION CONNEXION CONNEXION CONNEXION*/
 
   #main_connexion {
-    margin-top: 0;
+    margin-top: 3;
   }
 
   #main_connexion > h1 {
@@ -870,7 +870,7 @@ nav > #btn_menu > input:checked ~ ul {
   #main_actu {
     width: 75rem;
     min-height: 95vh;
-    margin-top: 5vh;
+    margin-top: 7rem;
     color: #383838;
     display: grid;
     grid-template-rows: auto 1fr;
